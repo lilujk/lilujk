@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello!
+### I am currently a CS student @ RPI
+### My pronouns are she/her
 
 <!--
 **lilujk/lilujk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
