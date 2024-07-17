@@ -1,6 +1,14 @@
-### Hello!
-### I am currently a CS student @ RPI
-### My pronouns are she/her
+## Hi, I'm Lilu! 👋🏼👩🏻‍💻
+
+*Currently*:
+- `Computer Science` and `Information Technologies and Web Sciences` at Rensselaer Polytechnic Institute
+- Software Engineer Intern at Soapbox LLC
+
+My name is Lilu Kaufman (she/her) and I'm an aspiring software engineer interested in full-stack development. 
+
+<!--(Currently/Previously), Currently Learning, Current Projects, Previous Projects-->
+
+Checkout [my website](https://lilukaufman.com) !
 
 <!--
 **lilujk/lilujk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
