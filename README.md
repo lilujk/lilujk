@@ -7,7 +7,13 @@
 *Previously*:
 - Software Engineer Intern at Soapbox LLC
 
-My name is Lilu Kaufman (she/her) and I'm an aspiring software engineer interested in full-stack development. 
+<hr/>
+
+My name is Lilu Kaufman (she/her) and I'm an aspiring software engineer interested in full-stack development with experience in art and design. I hope to combine my creativity and my love for programming to advance the current capabilities of technologies with the goal of helping others. 
+
+I thoroughly enjoy problem-solving and aim to use my imagination to allow me to view issues from fresh perspectives. I thrive on collaborating and value diverse POVs. My approach to issues involves addressing obstacles head-on in tangent with effective communication. I aspire to create a balance between my love for STEM and the arts while having a positive impact on communities worldwide.
+
+<hr/>
 
 <!--(Currently/Previously), Currently Learning, Current Projects, Previous Projects-->
 
