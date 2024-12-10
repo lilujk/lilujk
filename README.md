@@ -2,7 +2,7 @@
 
 *Currently*:
 - `Computer Science` and `Information Technologies and Web Sciences` at Rensselaer Polytechnic Institute
-- Working on `LUVU: A Women's Personal Fitness Tracker` utilizing `React Native` and `Figma`
+- Current Project `LUVU: A Women's Personal Fitness Tracker App` 
 
 *Previously*:
 - Software Engineer Intern at [Alertgy](https://www.alertgy.com/)
