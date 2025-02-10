@@ -1,8 +1,8 @@
 ## Hi, I'm Lilu! 👋🏼👩🏻‍💻
 
 *Currently*:
-- `Computer Science` and `Information Technologies and Web Sciences` at Rensselaer Polytechnic Institute
-- Current Project `LUVU: A Women's Personal Fitness Tracker App` 
+- `Computer Science` and `Information Technologies and Web Sciences` at Rensselaer Polytechnic Institute (est. 2027)
+- Current Projects: `LUVU: A Women's Personal Fitness Tracker App`, `DEVLNK: A Marketplace for Developers`
 
 *Previously*:
 - Software Engineer Intern at [Alertgy](https://www.alertgy.com/)
