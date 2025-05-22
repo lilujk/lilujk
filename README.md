@@ -2,6 +2,7 @@
 
 *Currently*:
 - `Computer Science` and `Information Technologies and Web Sciences` at Rensselaer Polytechnic Institute (est. 2027)
+- Software Engineer Intern at [HUML](https://www.huml.health/)
 - Current Projects: `LUVU: A Women's Personal Fitness Tracker App`, `DEVLNK: A Marketplace for Developers`
 
 *Previously*:
