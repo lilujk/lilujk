@@ -8,6 +8,7 @@
 - Software Engineer Intern at [Alertgy](https://www.alertgy.com/)
 - Software Engineer Intern at [Soapbox LLC](https://www.soapbox.host/)
 - Software Engineer Intern at [HUML](https://www.huml.health/)
+- Research Intern at [MIT Lincoln Laboratory](https://www.ll.mit.edu/)
 
 <hr/>
 
