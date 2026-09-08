@@ -2,12 +2,12 @@
 
 *Currently*:
 - `Computer Science` and `Information Technologies and Web Sciences` at Rensselaer Polytechnic Institute (est. 2027)
-- Software Engineer Intern at [HUML](https://www.huml.health/)
-- Current Projects: `LUVU: A Women's Personal Fitness Tracker App`, `DEVLNK: A Marketplace for Developers`
+- Current Projects: `LUVU: A Women's Personal Fitness Tracker App`
 
 *Previously*:
 - Software Engineer Intern at [Alertgy](https://www.alertgy.com/)
 - Software Engineer Intern at [Soapbox LLC](https://www.soapbox.host/)
+- Software Engineer Intern at [HUML](https://www.huml.health/)
 
 <hr/>
 
